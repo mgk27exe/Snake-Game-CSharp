@@ -1,0 +1,5 @@
+C:\Users\kilic\OneDrive\Masaüstü\proje\proje\proje\obj\Debug\net7.0\proje.csproj.AssemblyReference.cache
+C:\Users\kilic\OneDrive\Masaüstü\proje\proje\proje\obj\Debug\net7.0\proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kilic\OneDrive\Masaüstü\proje\proje\proje\obj\Debug\net7.0\proje.AssemblyInfoInputs.cache
+C:\Users\kilic\OneDrive\Masaüstü\proje\proje\proje\obj\Debug\net7.0\proje.AssemblyInfo.cs
+C:\Users\kilic\OneDrive\Masaüstü\proje\proje\proje\obj\Debug\net7.0\proje.csproj.CoreCompileInputs.cache
